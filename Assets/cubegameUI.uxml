@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="height: 452px;">
+        <ui:VisualElement name="Container" style="height: 49px; width: 351px;">
+            <ui:Label text="Score: " display-tooltip-when-elided="true" name="Score" style="height: 20px; width: 39px; top: 0;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
